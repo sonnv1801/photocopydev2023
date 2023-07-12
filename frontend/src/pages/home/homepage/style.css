@@ -1,0 +1,41 @@
+/* .App {
+  text-align: center;
+  padding: 20px;
+} */
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.App-header h1 {
+  margin: 0;
+}
+
+main {
+  margin: 40px 0;
+}
+
+footer {
+  background-color: #282c34;
+  padding: 10px;
+  color: white;
+}
+
+.main-crs {
+  margin-top: 1rem;
+}
+
+@media (max-width: 768px) {
+ .sm-product-home-page{
+  margin: 0 auto;
+ }
+}
+
+/* CSS cho màn hình tablet */
+@media (min-width: 769px) and (max-width: 1024px) {
+  .my-component {
+    /* Các thuộc tính dành cho màn hình tablet */
+  }
+}
